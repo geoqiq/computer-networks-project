@@ -1,1 +1,3 @@
-# computer-networks-project
+This project involves designing and implementing a functional network in Cisco Packet Tracer, ensuring correct cable connections and an efficient IP addressing scheme through subnetting. Devices are assigned IP addresses both statically and dynamically using DHCP, with properly configured default gateways to enable seamless communication across different network segments.
+
+Routing is implemented using both static routes and RIP, facilitating inter-network connectivity. A DNS server is configured for domain name resolution, while a web server is accessible from any device within the network. To optimize address space, minimal IP classes are used for router-to-router connections within the assigned network. Additionally, NAT is set up to enable external network access. The network’s functionality is verified through successful ping operations and service accessibility checks.
